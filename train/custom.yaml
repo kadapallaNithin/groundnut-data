@@ -1,0 +1,9 @@
+
+train: /content/yolov5/groundnut/train
+val: /content/yolov5/groundnut/test
+
+# number of classes
+nc: 4
+
+# class names
+names: ["Nut","InnerNut","Shell","InnerShell"]
